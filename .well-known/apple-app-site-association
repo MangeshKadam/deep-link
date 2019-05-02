@@ -1,0 +1,15 @@
+{
+"applinks": {
+"apps": [],
+"details": [
+{
+"appID": "KNGETVX987.com.transfast.Transfast",
+"paths": ["*"]
+},
+{
+"appID": "KNGETVX987.com.transfast.TransfastX",
+"paths": ["*"]
+}
+]
+}
+}
