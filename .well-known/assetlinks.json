@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.transfast.transfast.debug",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["EB:2B:2C:89:71:A2:6B:E0:76:E7:62:27:65:46:5A:9B:6C:89:00:CE:90:15:8B:56:2E:46:73:B7:B5:CC:9E:FD"]
   }
 }]
